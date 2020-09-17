@@ -1,0 +1,42 @@
+#canvas {
+    width: 300px;
+    height: 300px;
+    background-color: ivory;
+    margin: 0 auto;
+    box-shadow: 10px 10px 10px lightgrey;
+}
+
+#first-row {
+    width: 300px;
+    height: 75%;
+    margin: 0 auto;
+}
+
+#big-rectangle {
+    height: 100%;
+    width: 75%;
+    float: right;
+}
+
+#first-devider{
+    height: 100%;
+    width: 3%;
+}
+
+#second-medium-rectangle {
+    height: 100%;
+    width: 22%;
+    float: left;
+}
+
+.red{
+    background-color: red;
+}
+
+.black {
+    background-color: black;
+}
+
+.rigth {
+    
+}
